@@ -15,4 +15,3 @@ I did everything
 
 ### Links to tutorials:
 * https://facebook.github.io/react-native/docs/getting-started
-# hack-a-thing-1-ts-hackathing1
